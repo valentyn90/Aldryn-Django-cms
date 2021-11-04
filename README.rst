@@ -66,18 +66,3 @@ content::
           longer be necessary in a later release of aldryn-addons.
 
 
-============
-Contributing
-============
-
-This is a community project. We love to get any feedback in the form of
-`issues`_ and `pull requests`_. Before submitting your pull request, please
-review our guidelines for `Aldryn addons`_.
-
-.. _issues: https://github.com/aldryn/aldryn-django-cms/issues
-.. _pull requests: https://github.com/aldryn/aldryn-django-cms/pulls
-.. _Aldryn addons: http://docs.aldryn.com/en/latest/reference/addons/index.html
-.. _aldryn-django-cms: https://github.com/aldryn/aldryn-django-cms
-
-.. |PyPI Version| image:: http://img.shields.io/pypi/v/aldryn-django-cms.svg
-   :target: https://pypi.python.org/pypi/aldryn-django-cms
