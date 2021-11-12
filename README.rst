@@ -2,7 +2,6 @@
 Aldryn CMS
 ##########
 
-
 |PyPI Version|
 
 An opinionated django CMS setup bundled as an Aldryn Addon.
